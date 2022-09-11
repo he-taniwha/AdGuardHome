@@ -1,6 +1,5 @@
 # Your workflow name.
 name: Deploy to heroku.
-description: Build, Push and Release a Docker container to Heroku.
 
 # Run workflow on every push to master branch.
 on:
