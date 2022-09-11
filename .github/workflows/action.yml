@@ -7,7 +7,7 @@ on:
   push:
     branches: [main]
   pull_request:
-    branches: [ main ]
+    branches: [ master ]
 
 # Your workflows jobs.
 jobs:
